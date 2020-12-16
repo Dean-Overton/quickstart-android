@@ -57,7 +57,7 @@ dependencies {
     // for Google Analytics. This is recommended, but not required.
     implementation 'com.google.firebase:firebase-analytics'
 
-    implementation 'com.google.firebase:firebase-installations-ktx:16.3.4'
+    implementation 'com.google.firebase:firebase-installations-ktx:16.3.5'
 
     implementation 'android.arch.work:work-runtime:1.0.1'
 
